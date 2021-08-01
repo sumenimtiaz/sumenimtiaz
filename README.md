@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @sumenimtiaz
-- 👀 I’m interested in ios development and machine learning. 
-- 🌱 I’m currently learning how to incorporate machine learning into ios development. 
+- 👀 I’m interested in data science and machine learning. 
+- 🌱 I’m currently learning how to incorporate machine learning into software development. 
