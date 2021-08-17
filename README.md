@@ -1,3 +1,1 @@
-- 👋 Hi, I’m @sumenimtiaz
-- 👀 I’m interested in data science and machine learning. 
-- 🌱 I’m currently learning how to incorporate machine learning into software development. 
+
